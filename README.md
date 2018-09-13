@@ -9,7 +9,7 @@
 ### Getting Started
 Clone the source repo and run gradle build.
 ```
-gradlew clean build
+./gradlew clean build
 ```
 
 ### Run from IDE
